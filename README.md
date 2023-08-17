@@ -12,7 +12,7 @@ Epilepsy is a prevalent chronic neurological disorder in childhood, imposing a h
 
 ## Overview
 
-<img src=".\overview.png" width="100%" />
+<img src=".\overview.jpg" width="100%" />
 
 
 
